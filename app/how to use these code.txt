@@ -1,0 +1,3 @@
+code is in lib/main.dart
+Do not cahnge other file in the folder.
+These are settings in different plarform.
